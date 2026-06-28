@@ -6,9 +6,9 @@ The purpose of this project was **not only to download YouTube videos**, but als
 
 ---
 
-# 🎯 Goals
+# Goals
 
-During this project I learned:
+During this project:
 
 * Building a backend using Node.js
 * Creating an HTTP server with Express
@@ -103,7 +103,7 @@ Video saved to user's computer
 
 ---
 
-# 📚 Core Concepts Learned
+# Core Concepts 
 
 ## Node.js
 
@@ -219,7 +219,7 @@ The built-in `fs` module is used to:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 * Node.js
 * Express.js
@@ -235,7 +235,7 @@ The built-in `fs` module is used to:
 
 ---
 
-# 🚀 Learning Outcome
+#  Learning Outcome
 
 This project introduced many of the core concepts used in modern backend development.
 
@@ -251,4 +251,4 @@ Understanding this application provides a strong foundation for building:
 * File Upload Services
 * Full-Stack Web Applications
 
-It served as my first complete Node.js project and helped me understand how browsers, servers, and external programs communicate together in a real-world application.
+complete Node.js project
