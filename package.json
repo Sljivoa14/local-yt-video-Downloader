@@ -1,0 +1,21 @@
+{
+  "name": "my-vid-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bebytdl": "^1.0.0",
+    "express": "^5.2.1",
+    "youtube-dl-exec": "^3.1.8"
+  },
+  "allowScripts": {
+    "youtube-dl-exec@3.1.8": true
+  }
+}
